@@ -8,5 +8,6 @@ public class test {
         System.out.println("hello git4");
         System.out.println("hot-fix commit3");
         System.out.println("push commit3");
+        System.out.println("pull commit");
     }
 }
